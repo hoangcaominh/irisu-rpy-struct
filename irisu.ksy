@@ -13,9 +13,9 @@ seq:
   - id: score
     type: u4
     doc: Final score
-  - id: combo
+  - id: chain
     type: u4
-    doc: Highest combo reached
+    doc: Highest chain reached
   - id: mode
     type: u4
     doc: Game mode.
